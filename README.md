@@ -138,6 +138,6 @@ This project demonstrates a comprehensive insider threat assessment for SS‑Con
 
 ## 9. References
 1. SS‑Consulting Company Profile ([signalhire.com](https://www.signalhire.com/companies/ss-consulting-pty-ltd))  
-2. SS‑Consulting & KnowBe4 Partnership ([itweb.co.za](https://www.itweb.co.za/article/transforming-human-error-into-cyber-fortification-ss-consulting-partners-with-knowbe4))  
+2. SS‑Consulting & KnowBe4 Partnership ([itweb.co.za](https://www.itweb.co.za/article/transforming-human-error-into-cyber-fortification-ss-consulting-partners-with-knowbe4/o1Jr5MxPDymMKdWL))  
 3. NIST Cybersecurity Framework 2.0 Overview ([nist.gov](https://www.nist.gov/cyberframework))  
 4. ISO/IEC 27001:2013 Standard
