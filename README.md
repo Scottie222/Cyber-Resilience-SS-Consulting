@@ -1,5 +1,5 @@
 # Cyber-Resilience-SS-Consulting
-Portfolio project: Cyber Resilience &amp; IT Audit Assessment using ISO 27001 and NIST CSF 2.0 – SS‑Consulting Insider Threat Case Study
+Cyber Resilience &amp; IT Audit Assessment using ISO 27001 and NIST CSF 2.0 – SS‑Consulting Insider Threat Case Study
 # Cyber Resilience & IT Audit Assessment Using NIST CSF 2.0 and ISO 27001 (SS‑Consulting Case Study)
 
 ---
