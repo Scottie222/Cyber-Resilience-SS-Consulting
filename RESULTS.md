@@ -62,7 +62,7 @@
 
 ## Conclusion
 
-SS-Consulting faces elevated insider threat risk primarily due to human factors —
+SS-Consulting faces elevated insider threat risk primarily due to human factors,
 AI-generated phishing and deepfake impersonation represent emerging threats
 that current training programs do not address. Implementing SIEM, enforcing
 least privilege, and updating awareness training to cover AI threats would
