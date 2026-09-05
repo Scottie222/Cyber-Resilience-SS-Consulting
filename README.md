@@ -10,7 +10,7 @@
 
 **[scottie222.github.io/Cyber-Resilience-SS-Consulting](https://scottie222.github.io/Cyber-Resilience-SS-Consulting/)**
 
-No install. No login. Play through the insider threat incident as SOC analyst — your decisions determine the outcome.
+No install. No login. Play through the insider threat incident as SOC analyst, your decisions determine the outcome.
 
 ---
 
@@ -18,7 +18,7 @@ No install. No login. Play through the insider threat incident as SOC analyst �
 
 Most GRC portfolio projects are static documents. This one is playable.
 
-A recruiter can sit at the SOC console, make real incident response decisions across 5 attack phases, watch ISO 27001 controls flip from FAIL to PASS in real time, and receive a scored debrief at the end. Built around a real SA cybersecurity firm — SS-Consulting (Pty) Ltd — and grounded in actual insider threat patterns.
+Please sit at the SOC console, make real incident response decisions across 5 attack phases, watch ISO 27001 controls flip from FAIL to PASS in real time, and receive a scored debrief at the end.I Built this around a real SA cybersecurity firm, SS-Consulting (Pty) Ltd and grounded in actual insider threat patterns.
 
 ---
 
